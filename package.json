@@ -1,0 +1,22 @@
+{
+  "name": "music_bot-main",
+  "version": "1.0.0",
+  "description": "This music bot allowes the users to play the sound of any youtube video in a discord voice channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discord-player/extractor": "^4.4.1",
+    "@discordjs/opus": "^0.9.0",
+    "@distube/ytdl-core": "^4.11.17",
+    "discord-player": "^6.6.2",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "play-dl": "^1.9.6",
+    "yt-stream": "^1.4.8",
+    "ytdl-core": "^4.9.1"
+  }
+}
