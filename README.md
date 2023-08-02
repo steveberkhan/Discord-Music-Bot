@@ -1,4 +1,5 @@
 # Music bot by MD20M, modified by Flashen1
+https://github.com/MD20M/music_bot
 This music bot allowes the users to play the sound of any youtube video in a discord voice channel.
 
 ## Installation
